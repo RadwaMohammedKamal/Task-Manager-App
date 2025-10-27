@@ -1,9 +1,8 @@
-void main() {
-<<<<<<< HEAD
-  print("Hello world, my local version")
-=======
-  print("Hello world, collaborator version")
->>>>>>> 6ad7721 (colaborative code_task.dart)
+void main() 
+{
+  print('Hello world, my local version + collaborate version')
+
+  
   
   addTask('Complete Git practice task');
 }
